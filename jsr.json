@@ -1,5 +1,5 @@
 {
-    "name": "@qui/tailwindcss-toolkit",
-    "version": "0.0.0",
-    "exports": "./src/index.ts"
-  }
+  "name": "@qui/tailwindcss-toolkit",
+  "version": "0.0.0",
+  "exports": "./src/index.ts"
+}
